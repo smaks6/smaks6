@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/badge/discord-smaks6%239947-%237289DA?logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-smaks6-%237289DA?logo=discord&logoColor=white)
 
 
 ### Hello!👋 
